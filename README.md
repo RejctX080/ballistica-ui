@@ -1,4 +1,4 @@
-# Ballistica Server Manager
+# Ballistica Server Manager By RejctX
 
 Frontend PWA to manage your BombSquad/Ballisitca game server.
 Broadcast Bombsquad server live stats and leaderboard. Notify players when their friends join the game via web push notification and Admin panel to configure a server on fly.
